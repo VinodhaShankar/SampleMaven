@@ -28,6 +28,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 			if (title.equals("SeleniumHQ Browser Automation"))
 			{
 				System.out.println("Got the Expected Result");
+				System.out.println("Result");
 			}
 			
 			driver.quit();
